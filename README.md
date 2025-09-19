@@ -1,12 +1,7 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Full-Stack-Realtime-blue?style=for-the-badge&logo=react" alt="Full Stack Badge"/>
-  <img src="https://img.shields.io/badge/Tech-MERN+Socket.io+TailwindCSS+-green?style=for-the-badge" alt="Tech Stack Badge"/>
-  <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status Badge"/>
-</p>
 
 # ✨ PingPoint - Full Stack Realtime Chat App ✨
 
-**PingPoint** is a modern **Realtime Chat Application** built with the MERN stack, **Socket.io**, **TailwindCSS**, and **Daisy UI**.  
+**PingPoint** is a modern **Realtime Chat Application** built with the MERN stack, **Socket.io**, **TailwindCSS**, and **🌼Daisy UI**.  
 It demonstrates full-stack development, real-time messaging, JWT authentication, deployment, and more.
 
 ---
